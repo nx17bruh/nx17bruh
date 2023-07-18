@@ -1,14 +1,14 @@
 <h1>Hi, I'm Neet Patel</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nx17bruh&label=Profile%20views&color=0e75b6&style=flat" alt="nx17bruh" /> </p>
-<h1>A Passionate Guy Who Is Building His Skills.</h1>
+<h2>A Passionate Guy Who Is Building His Skills.</h2>
 
-I am a learner who is interested in:
+📍I am a learner who is interested in:
 - Finance
 - Development
 - Design(UX design, Product design)
 - Data analytics
 
-Currently I'm giving my time into:
+📍Currently I'm giving my time into:
 - Web Development
 - C++
 
