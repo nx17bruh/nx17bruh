@@ -18,9 +18,7 @@ Currently I'm giving my time into:
 <a href="https://instagram.com/neet17_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neet17_" height="30" width="40" /></a>
 </p>
 
-**By the way you also**<br> 
-
-
+**Bytheway you can also**<br> 
 Drop me a mail [here](mailto:patel.neet2004@gmail.com)
 
 
