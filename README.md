@@ -5,7 +5,7 @@
 📍I am a learner who is interested in:
 - Finance
 - Development
-- Design(UX design, Product design)
+- Design (UX design, Product design)
 - Data analytics
 
 📍Currently I'm giving my time into:
