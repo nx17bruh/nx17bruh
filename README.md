@@ -18,7 +18,7 @@
 <a href="https://instagram.com/neet17_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neet17_" height="30" width="40" /></a>
 </p>
 
-**Bytheway you can also**<br> 
-Drop me a mail [here](mailto:patel.neet2004@gmail.com)
+**to chat about tech, share ideas, or just say hi!**<br> 
+You can also drop me a mail [here](mailto:patel.neet2004@gmail.com)
 
 
