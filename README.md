@@ -19,8 +19,7 @@
 </p>
 
 **OR**
-
- You can reach me at [here](mailto:patel.neet2004@gmail.com)
+You can reach me at [here](mailto:patel.neet2004@gmail.com)
  
  **to chat about tech, share ideas, or just say hi!**<br> 
  
