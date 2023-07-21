@@ -20,7 +20,7 @@
 
 **You can drop me a mail** [here](mailto:patel.neet2004@gmail.com)
  
-**to chat about tech, share ideas, or just say hi!**<br> 
+<h3>**to chat about tech, share ideas, or just say hi!**<br></h3> 
  
 
 
