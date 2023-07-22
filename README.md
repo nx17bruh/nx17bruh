@@ -22,7 +22,7 @@
 
 
 
-**You can also drop me a mail** [here](mailto:patel.neet2004@gmail.com)
+**OR you can also drop me a mail** [here](mailto:patel.neet2004@gmail.com)
 <h4>to chat about tech, share ideas, or just say hi!<br></h4> 
  
 
