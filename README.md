@@ -10,6 +10,7 @@
 
 **📍Currently I'm giving my time into:**
 - Web Development
+- c++
   
 
 <h3 align="left">Find me on:</h3>
