@@ -1,4 +1,4 @@
-<h1>Hi, I'm Neet Patel</h1>
+<h1>Neet Dipakkumar Patel</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nx17bruh&label=Profile%20views&color=0e75b6&style=flat" alt="nx17bruh" /> </p>
 <h2>A Passionate Guy Who Is Building His Skills.</h2>
 
@@ -15,7 +15,7 @@
 
 **OR** </br>
 *you can also drop me a mail* [here](mailto:nx17bruh@gmail.com)
-<h4>to chat about tech, share ideas, or just say hiii!<br></h4> 
+<h4>to chat about tech, share ideas<br></h4> 
  
 
 
