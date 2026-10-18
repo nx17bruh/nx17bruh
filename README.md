@@ -5,10 +5,9 @@
 - Finance
 - Development
 - Design (UX design, Product design)
-- 
+ 
 **OR** </br>
-*you can also drop me a mail* [here](mailto:nx17bruh@gmail.com)
-<h4>to chat about tech, share ideas<br></h4> 
+*you can also drop me a mail* [here](mailto:nx17bruh@gmail.com)<h4>to chat about tech, share ideas<br></h4> 
  
 
 
